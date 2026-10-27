@@ -3,5 +3,5 @@
 ```
 grocerydb.csv - database
 notebook.ipynb - EDA work
-final.ipynb - for presentation
+Project 1.pdf - final presentation
 ```
